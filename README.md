@@ -15,12 +15,9 @@ Audio Manipulation: User-controlled Volume and Playback Speed (via custom knobs 
 
 User-Centric Design: Built with error-handling mechanisms and alert systems to ensure a smooth and intuitive user experience.
 
-💻 Technical Implementation
-
-Platform: MATLAB App Designer.
-
-Signal Processing: Implemented block-based audio processing to synchronize real-time playback with graphical updates.
-
+## Tools & Technologies
+- MATLAB
+- App Designer - GUI
 
 ---
 **Course:** MATLAB  | **Institution:** Ruppin Academic Center
