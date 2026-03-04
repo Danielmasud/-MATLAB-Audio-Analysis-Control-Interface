@@ -3,7 +3,7 @@
 
 Developed an interactive application using MATLAB App Designer for real-time audio analysis and playback control. The system allows users to load, visualize, and manipulate .wav audio files with high precision.
 
-🎯 Key Features & Functionalities
+## Key Features & Functionalities
 
 - Advanced Visualization: Displays synchronized Waveform and Spectrogram graphs for deep spectral analysis.
 
