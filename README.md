@@ -21,3 +21,6 @@ Platform: MATLAB App Designer.
 
 Signal Processing: Implemented block-based audio processing to synchronize real-time playback with graphical updates.
 
+
+---
+**Course:** MATLAB  | **Institution:** Ruppin Academic Center
